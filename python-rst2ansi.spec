@@ -1,6 +1,6 @@
 Name:		python-rst2ansi
 Version:	0.1.5
-Release:	1
+Release:	2
 Source0:	https://files.pythonhosted.org/packages/source/r/rst2ansi/rst2ansi-%{version}.tar.gz
 Summary:	A rst converter to ansi-decorated console output
 URL:		https://pypi.org/project/rst2ansi/
